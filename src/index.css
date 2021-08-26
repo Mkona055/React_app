@@ -1,0 +1,228 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./icons/bg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mr-auto, .iconOk{
+  margin:auto;
+}
+img{
+  margin-left:20px;
+  margin-right:10px;
+  
+}
+.book{
+  transform:rotate(45deg);
+}
+
+.NavEntries{
+  font-family: 'Montserrat'; 
+  font-size: 20px;
+}
+Nav{
+  background-color: aliceblue;
+}
+.logo{
+  width: 300px;
+  margin-left: 50px;
+}
+.not-found{
+  margin:20px 20px;
+  font-size: 50px;
+}
+
+.register{
+  font-size: 30px;
+}
+.register, .connexion{
+  text-decoration: none;
+  color:#299f69;
+  font-family: 'Montserrat'; 
+  
+}
+.register:hover,.connexion:hover {
+  color:black;
+}
+.account{
+
+  margin-left: auto;
+  margin-right:50px;
+}
+.logoAccount{
+  width: 100px;
+  margin-right: 50px;
+}
+
+.title{
+  background-color: grey;
+  text-align: center;
+  color:white;
+  font-family: 'Montserrat'; 
+  font-weight: bolder;
+  font-size: 60px;
+}
+.subTitle{
+  background-color: grey;
+  text-align: center;
+  color:white;
+  font-family: 'Montserrat'; 
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+
+
+.react-datepicker-wrapper{
+  width: 100%;
+}
+.rowSelect{
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+.video, .academyCard{
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: 'Montserrat'; 
+}
+iframe{
+  
+  height:500px;
+}
+.cardTitle{
+  color:#299f69;
+  font-size: 60px;
+}
+.modalHeader{
+  font-family: 'Montserrat'; 
+  background-color: #299f69;
+  color:white;
+}
+.form-label{
+  font-family: 'Montserrat'; 
+  color: black;
+  font-size: 20px;
+  
+}
+.btnForm, .btnRegister{
+  text-align: right;
+  margin-left:10px;
+}
+.btnBack{
+margin-right:auto;
+}
+.select, .programs{
+  background-color: #299f69;
+  width:100%;
+  color:white;
+  font-family: 'Montserrat'; 
+  font-weight: bolder;
+  font-size: 20px;
+}
+.programs{
+  margin-left:20px;
+  font-size: 40px;
+  width:25%;
+}
+
+.addLabel{
+  
+  font-size: 40px;
+  background-color: #299f69;
+  width:100%;
+  color:white;
+  font-family: 'Montserrat'; 
+  font-weight: bolder;
+  
+}
+.card-img{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.fieldPicture{
+  height:300px
+}
+.fields{
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: 'Montserrat'; 
+}
+.card{
+  font-family: 'Montserrat'; 
+}
+
+/* blog previews / list */
+.blog-preview, .blog-details {
+  padding: 10px 16px;
+  margin: 20px 20px;
+  border-bottom: 1px solid #fafafa;
+  background-color: white;
+}
+.blog-preview:hover {
+  border-color: black;
+  box-shadow: 5px 5px 5px black;
+}
+.blog-preview h2 {
+  font-family: 'Montserrat';
+  font-size: 30px;
+  color:#299f69;
+  margin-bottom: 8px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+
+/* blog details page */
+.blog-details h2 {
+  font-family: 'Montserrat';
+  font-size: 30px;
+  color:#299f69;
+  margin-bottom: 8px;
+}
+.blog-details div {
+  margin: 20px 0;
+  
+}
+
+.form p{
+  text-align: center;
+}
+/* create new blog form */
+.createPost{
+ 
+  margin: 20px 20px;
+  background-color: white;
+}
+
+.create{
+  
+  margin: 100px 100px;
+  background-color: white;
+}
+
+.addPost{
+  text-align: right;
+  
+  margin-right:20px;
+  font-family: 'Montserrat';
+}
+
+.infosText{
+  font-size: 20px;
+}

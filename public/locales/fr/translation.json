@@ -1,0 +1,19 @@
+{
+    "navbar":{
+        "TV":"SCORETV",
+        "academy":"SCORE ACADEMIE",
+        "book":"RESERVEZ UN TERRAIN",
+        "findPlayers":"TROUVER DES JOUEURS",
+        "aboutUs":"À PROPOS DE NOUS"
+    },
+    "aboutUs":{
+        "ourServices": "Nos services en détails",
+        "scoreTvDetails": "SCORETV offre l'opportunité à tous les joueurs ayant réservé avec nous un terrain de pouvoir revisionner leur prouesses lors de leur passage chez nous. Nous avons des caméras 4k et des drones qui enregistrent l'intégralité du match.",
+        "academyDetails":"SCORE ACADEMY est notre rubrique permettant de donner des cours à tous les joueurs qui veulent perfectionner leur talent. Notre équipe est composée d'entraineurs d'États et de médecins qualifiés. Vous avez le choix entre deux programmes. Faites y un tour !",
+        "bookingDetails":"Nous avons plusieurs terrains disponibles  Ottawa, Gatineau et Toronto. Vous pouvez réservez un terrain pour vos matchs ou compétitions. Les tarifs indiqués sont pour l'ensemble des joueurs c'est à dire un seul joueur prend la réservation pour tous",
+        "findPlayersDetails":"Marre de jouer tout seul? Venez poster une annonce ou consulter celles existantes afin de trouver des joueurs tout aussi incroyable que vous."
+    
+    }
+
+
+}

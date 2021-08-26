@@ -1,0 +1,20 @@
+{
+    "navbar":{
+        "TV":"SCORETV",
+        "academy":"SCORE ACADEMY",
+        "book":"BOOK A FIELD",
+        "findPlayers":"FIND PLAYERS",
+        "aboutUs":"ABOUT US"
+    },
+    "aboutUs":{
+        "ourServices": "Our services in details",
+        "scoreTvDetails": "SCORETV offers the opportunity to all players who have booked a pitch with us to be able to review their prowess while they are with us. We have 4k cameras and drones that record the entire game.",
+        "academyDetails": "SCORE ACADEMY is our section to give lessons to all players who want to improve their talent. Our team consists of state coaches and qualified doctors. There are two programs to choose from. Take a look around!",
+        "bookingDetails": "We have several fields available Ottawa, Gatineau and Toronto. You can reserve a field for your games or competitions. The rates shown are for all players, i.e. one player takes the reservation for all",
+        "findPlayersDetails": "Tired of playing alone? Come and post an ad or check out the existing ones to find players just as amazing as you."
+    
+    }
+
+
+
+}
