@@ -11,11 +11,11 @@ npm run start
 
 ## Some pictures of the application
 
-![img](./assets/Screen Shot 2022-05-25 at 3.04.18 PM.png)
+![img](assets/about.png)
 
-![img](./assets/Screen Shot 2022-05-25 at 3.05.51 PM.png)
+![img1](assets/academy.png)
 
-![img](./assets/Screen Shot 2022-05-25 at 3.06.02 PM.png)
+![img2](assets/book.png)
 
-![img](./assets/Screen Shot 2022-05-25 at 3.06.25 PM.png)
+![img3](assets/scoretv.png)
 
